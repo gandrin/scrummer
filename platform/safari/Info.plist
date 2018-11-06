@@ -22,6 +22,10 @@
 		<dict>
 			<key>Start</key>
 			<array>
+				<string>dom-helper.js</string>
+				<string>sanitizer.js</string>
+				<string>formatter.js</string>
+				<string>points-calculation.js</string>
 				<string>scrummer.js</string>
 			</array>
 		</dict>
