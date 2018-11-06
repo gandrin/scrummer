@@ -9,6 +9,10 @@
         "https://trello.com/*"
       ],
       "js": [
+        "dom-helper.js",
+        "sanitizer.js",
+        "formatter.js",
+        "points-calculation.js",
         "scrummer.js"
       ],
       "css": [
